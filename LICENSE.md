@@ -1,4 +1,4 @@
-
+Enhance VMware Fusion for macOS with smart Workflow for VMware Fusion for macOS - clipboard-manager and CPU-monitoring, the #1 workflow. Includes clipboard-manager and
 
 
 
